@@ -1,29 +1,22 @@
-# Building the Operating System for Risk & Resilience.
+# Building the Operating System for High-Hazard Risk Transfer.
 
-### Architecting **StrataCover Labs** | Automating E&S Insurance
+### Architecting StrataCover Network | Modernizing E&S Wholesale
 
-I am a technical founder bridging the gap between complex commercial risk and autonomous software. My mission is to fortify the modern enterprise against the uninsurable.
-
----
-
-### 🛠 The Arsenal (Tech Stack)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+I am a technical founder bridging the gap between complex commercial casualty risk and programmatic underwriting execution. Building high-velocity clearance infrastructure for New York commercial construction.
 
 ---
 
-### 🔭 Current Objectives
-
-- **Agency Engine:** Deploying high-velocity automated prospecting for **StrataCover Network**.
-- **Labs Engine:** Building the **AI Liability Scanner** (SaaS) to audit corporate exposure.
-- **Alpha:** Researching asymmetric opportunities in RWA and Bio-Accel.
+### 🛠️ Tech Stack & Architecture
+`OpenAI` `Python` `Supabase` `Next.js` `TailwindCSS` `TypeScript`
 
 ---
 
-### 🔗 Connect
+### 🎯 Current Focus
+* **Clearance Engine:** Deploying high-velocity intake and market triage for **StrataCover Network**.
+* **Document Intelligence:** Native LLM parsing pipelines for automated ACORD 125/126 and loss run extraction.
+* **Compliance Infrastructure:** Automated ELANY §2118 diligent search capture and statutory surplus lines filing engines.
 
-[**StrataCover Network**](https://stratacover.network) • [**LinkedIn**](https://linkedin.com/in/michael-h-j-b87687260)
+---
+
+### 🔗 Institutional Links
+[StrataCover Network](https://stratacover.network) • [LinkedIn](https://linkedin.com/in/your-profile)

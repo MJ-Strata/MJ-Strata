@@ -19,4 +19,4 @@ I am a technical founder bridging the gap between complex commercial casualty ri
 ---
 
 ### 🔗 Institutional Links
-[StrataCover Network](https://stratacover.network) • [LinkedIn](https://linkedin.com/in/your-profile)
+[StrataCover Network](https://stratacover.network) • [LinkedIn](https://www.linkedin.com/in/michaelhjenkins/)
